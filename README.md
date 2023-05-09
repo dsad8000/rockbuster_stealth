@@ -26,14 +26,19 @@ Data is included for film rentals in 2006. SQL queries were used to check data f
 
 CSV files with SQL queries to answer business questions
 <kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Analysis_2.jpg><kbd>
+ 
 <kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Summary_film_table.jpg><kbd>
+ 
 <kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Analysis_1.jpg><kbd>
+ 
 <kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Analysis_3.jpg><kbd>
+ 
 <kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Analysis_4.jpg><kbd>
 
 ### **Recommendations**
  
-[Slide presentation]
+[Slide presentation](https://github.com/dsad8000/rockbuster_stealth/blob/main/Rockbuster_presentation.pdf)
+ 
 [Tableau dashboard](https://public.tableau.com/app/profile/danielle.sadler6048/viz/RockbusterCustomersandRevenuebyLocation_16802791977730/Top10Countries?publish=yes)
 
 1. Strategically choose markets to roll out the streaming service. Targeting these 10 countries for initial sales and marketing campaigns captures high individual and total revenue potential. 
