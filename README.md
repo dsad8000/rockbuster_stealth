@@ -55,7 +55,9 @@ SQL queries to answer business questions
  
 <kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Recommendations_3.jpg>
  
+## **Summary**
 
+<kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Summary.jpg><kbd>
 
 
 
