@@ -19,21 +19,14 @@ Data was filtered, summarized, and cleaned in PostgreSQL. SQL queries included j
 ## **Data Limitations**
 
 #### Data is included for film rentals in 2006, so timeliness is an issue. Data collection after initial implementation of strategic business plan, particularly among the high lifetime value customers as outlined below, will provide guidelines for pivoting in targeted marketing campaigns. Data integrity was checked using SQL queries to identify non-uniform, duplicate, and missing values.
-
-[Data cleaning process and queries](https://github.com/dsad8000/rockbuster_stealth/blob/main/Data_cleaning.pdf)
-
-
  
 ## **Analysis and Results**
 ### [Downloadable Excel file of cleaned data](https://github.com/dsad8000/rockbuster_stealth/blob/main/Cleaned_data.xlsx)
 
-SQL queries to answer business questions
- 
-
 
 ## **Recommendations**
  
-### [Slide presentation](https://github.com/dsad8000/rockbuster_stealth/blob/main/Rockbuster_presentation.pdf)
+### [Presentation of findings](https://github.com/dsad8000/rockbuster_stealth/blob/main/Rockbuster_presentation.pdf)
  
 [Tableau dashboard](https://public.tableau.com/app/profile/danielle.sadler6048/viz/RockbusterCustomersandRevenuebyLocation_16802791977730/Top10Countries?publish=yes)
 
