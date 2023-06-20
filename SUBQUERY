@@ -1,4 +1,4 @@
---Example subquery with JOIN statements
+--Subquery with JOIN statements
 
 --Top 5 customers by country
 SELECT D.country,
