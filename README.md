@@ -1,5 +1,5 @@
 # Rockbuster Stealth
-## Analysis of video rental for business strategy recommendations
+## Analysis of video rental data for business strategy recommendations
 ## **Objective**
 
 #### Rockbuster Stealth LLC business intelligence department requires a launch strategy for moving their video rental business to a streaming service. The management board has asked for a presentation addressing a number of business questions to inform their 2020 company strategy.
