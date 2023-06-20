@@ -1,0 +1,29 @@
+--Show only unique records in film table
+
+SELECT DISTINCT film_id,
+	title,
+	description
+FROM film
+
+--Show only unique records in customer table
+CREATE VIEW customer_unique AS
+SELECT customer_id,
+	first_name,
+	last_name,
+	email
+FROM customer
+GROUP BY customer_id,
+	first_name,
+	last_name,
+	email
+  
+ --Show only duplicate records in film table
+SELECT film_id,
+	title,
+	description,
+	COUNT(*)
+FROM film
+GROUP BY film_id,
+	title,
+	description
+HAVING COUNT(*) >1
