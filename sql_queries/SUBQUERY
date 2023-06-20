@@ -1,4 +1,4 @@
---Subquery with JOIN statements
+--Subqueries with JOIN statements
 
 --Top 5 customers by country
 SELECT D.country,
@@ -26,3 +26,23 @@ LEFT JOIN (SELECT B.customer_id,
 		   	LIMIT 5) AS top_5_customers -- subquery renamed top_5_customers
 		ON D.country = top_5_customers.country
 GROUP BY D.country
+
+--Average amount paid by the top 5 customers in the top 10 cities
+SELECT AVG(total_amount_paid.amount_paid) AS average
+FROM
+        (SELECT B.customer_id,
+		B.first_name,
+		B.last_name,
+		E.country,
+		D.city,
+		SUM(A.amount) AS amount_paid
+	 FROM payment A
+	 INNER JOIN customer B ON A.customer_id = B.customer_id
+	 INNER JOIN address C ON B.address_id = C.address_id
+	 INNER JOIN city D ON C.city_id = D.city_id
+	 INNER JOIN country E ON D.country_id = E.country_id
+	 WHERE D. city IN ('Auroroa', 'Atlixco','Xintai','Adoni','Dhule(Dhulia)',
+				'Kurashiki','Pingxiang','Sivas','Celaya','So Leopoldo')
+	 GROUP BY B.customer_id, B.first_name, B.last_name, E.country, D.city
+	 ORDER BY amount_paid DESC
+	 LIMIT 5) AS total_amount_paid -- subquery renamed total_amount paid
