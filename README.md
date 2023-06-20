@@ -22,7 +22,7 @@ Data was filtered, summarized, and cleaned in PostgreSQL. SQL queries included j
  
 ## **Analysis and Results**
 ### [Downloadable Excel file of cleaned data](https://github.com/dsad8000/rockbuster_stealth/blob/main/Cleaned_data.xlsx)
-
+### [Sample SQL Queries used](https://github.com/dsad8000/rockbuster_stealth/tree/main/sql_queries)
 
 ## **Recommendations**
  
