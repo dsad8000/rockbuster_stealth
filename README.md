@@ -22,24 +22,14 @@ Data was filtered, summarized, and cleaned in PostgreSQL. SQL queries included j
 
 [Data cleaning process and queries](https://github.com/dsad8000/rockbuster_stealth/blob/main/Data_cleaning.pdf)
 
-<kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Summary_customer_table.jpg><kbd>
- 
-<kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Summary_film_table.jpg><kbd>
+
  
 ## **Analysis and Results**
 ### [Downloadable Excel file of cleaned data](https://github.com/dsad8000/rockbuster_stealth/blob/main/Cleaned_data.xlsx)
 
 SQL queries to answer business questions
  
-<kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Analysis_2.jpg><kbd>
- 
-<kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Summary_film_table.jpg><kbd>
- 
-<kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Analysis_1.jpg><kbd>
- 
-<kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Analysis_3.jpg><kbd>
- 
-<kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Analysis_4.jpg><kbd>
+
 
 ## **Recommendations**
  
