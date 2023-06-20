@@ -1,5 +1,6 @@
---Show only unique records in film table
+--Cleaning data using DISTINCT, VIEW, and HAVING statements
 
+--Show only unique records in film table
 SELECT DISTINCT film_id,
 	title,
 	description
