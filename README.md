@@ -24,19 +24,20 @@ Data was filtered, summarized, and cleaned in PostgreSQL. SQL queries included j
 
 1. Strategically choose markets to roll out the streaming service. Targeting these 10 countries for initial sales and marketing campaigns captures high individual and total revenue potential.
  
-<kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Recommendations_1.jpg><kbd>
+<kbd>![Recommendations_1](https://github.com/dsad8000/rockbuster_stealth/assets/98616377/902ef4f2-8e2c-4e16-9fac-6ff2f771698e)<kbd>
  
 2. Marketing and sales campaigns target geographic location content preferences based on popular film categories.
  
-<kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Recommendations_2.jpg><kbd>
+<kbd>![Recommendations_2](https://github.com/dsad8000/rockbuster_stealth/assets/98616377/510c0b1c-19ce-48a3-973a-a6b5a6797260)<kbd>
  
 3. Introduce initial service plan incentives for high lifetime value customers. Customers in the top quarter of revenue are 19% or more of customers in our top 10 revenue countries. A loyalty plan to reward these customers with incentives for the initial service plan will provide data to analyze rental trends for targeted local marketing campaigns.
  
-<kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Recommendations_3.jpg>
+<kbd>![Recommendations_3](https://github.com/dsad8000/rockbuster_stealth/assets/98616377/1bb9f51f-4007-49de-aa58-0652d62cbc0d)<kbd>
+
  
 ## **Summary**
 
-<kbd><img src=https://github.com/dsad8000/rockbuster_stealth/blob/main/Summary.jpg><kbd>
+<kbd>![Summary](https://github.com/dsad8000/rockbuster_stealth/assets/98616377/bb5581d4-ff4f-4eb6-b25f-9fdfbc97f7b2)<kbd>
 
 
 
