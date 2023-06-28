@@ -20,7 +20,7 @@ Data was filtered, summarized, and cleaned in PostgreSQL. SQL queries included j
 
 ## **Recommendations**
 
-## [Tableau dashboard](https://public.tableau.com/app/profile/danielle.sadler6048/viz/RockbusterCustomersandRevenuebyLocation_16802791977730/Top10Countries?publish=yes)
+### [Tableau dashboard](https://public.tableau.com/app/profile/danielle.sadler6048/viz/RockbusterCustomersandRevenuebyLocation_16802791977730/Top10Countries?publish=yes)
 
 1. Strategically choose markets to roll out the streaming service. Targeting these 10 countries for initial sales and marketing campaigns captures high individual and total revenue potential.
  
